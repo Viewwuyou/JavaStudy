@@ -1,4 +1,4 @@
-package com.viewwuyou.java.DesignPattern.proxy.staticProxy.demonstration;
+package com.viewwuyou.java.DesignPattern.proxy.staticProxy;
 
 public class Son implements Person {
     @Override

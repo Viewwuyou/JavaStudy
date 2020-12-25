@@ -1,4 +1,4 @@
-package com.viewwuyou.java.DesignPattern.proxy.staticProxy.demonstration;
+package com.viewwuyou.java.DesignPattern.proxy.staticProxy;
 
 public class Father {
     private Son son;
